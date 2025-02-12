@@ -16,9 +16,6 @@ removal.
 Manhattan).
 • Perform hierarchical clustering using library functions.
 • Visualize dendrograms to determine optimal clusters.
-69
-Mini-Project
-Instructions
 6. K-means Clustering:
 • Use a Python library (e.g., scikit-learn) for K-means clustering:
 • Choose number of clusters (k) based on insights or finding best k.
