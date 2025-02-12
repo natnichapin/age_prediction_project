@@ -1,3 +1,5 @@
+-- Mini-Project Instructions --
+
 1. Dataset Selection: Each group will work with a dataset at
 https://archive.ics.uci.edu/datasets, or https://www.kaggle.com/datasets.
 2. Data Exploration:
